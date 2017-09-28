@@ -7,4 +7,4 @@ Updated to also create the same password as 12RandomDigitsPassword.swift
 Swift shell script that creates a 12-digit random alpha + numeric + standard keyboard symbol password
 
 # RandomBankCardPIN.swift
-Creates a random 4-digit numeric-only bank card PIN
+Swift shell script that creates a random 4-digit numeric-only bank card PIN

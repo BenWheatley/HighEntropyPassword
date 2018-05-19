@@ -22,7 +22,6 @@ separator2 = str(secureRNG.randint(0, 1000))
 print("\nCorrect Horse Battery Staple (73 bits entropy, if random number generator is correct and your dictionary is the same size as mine):")
 print( allWords[wordIndex1].strip() + separator1 + allWords[wordIndex2].strip() + separator2 + allWords[wordIndex3].strip() )
 
-
 #-----------------
 
 chars = list(string.ascii_letters + string.digits + string.punctuation)
